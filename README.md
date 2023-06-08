@@ -8,3 +8,5 @@ This is just a repository of solutions to random algorithm problems and intervie
 2. TopK - `O(n)` - Find the top k values by frequency in a list
 
 3. Merge - `O(n * n log n)` - Merge all overlapping intervals
+
+4. Pow - `O(log(n))` - Very simple recursive implementation of a fast pow function
